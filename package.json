@@ -1,0 +1,27 @@
+{
+  "name": "clear-browser-console",
+  "version": "0.0.1",
+  "description": "Pure JS code to easily clear console using double key press",
+  "main": "clear-console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aknilam/clear-browser-console.git"
+  },
+  "keywords": [
+    "clear",
+    "console",
+    "shortcut",
+    "key",
+    "press"
+  ],
+  "author": "Michał Malinka <malinka.michal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aknilam/clear-browser-console/issues"
+  },
+  "dependencies": {
+  }
+}
